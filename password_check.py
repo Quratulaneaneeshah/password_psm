@@ -6,9 +6,9 @@ st.set_page_config(page_title="Password Strength Checker By Qurat ul ane anee sh
 st.markdown("""
 <style>
     .main {text-align: center;}
-    .stTextInput {width: 50% !important; margin: auto;}
-    .stButton button {width: 50%; background-color: black; color: white; font-size: 18px; }
-    .stButton button:hover { Background-color: red; color: black;}
+    .stTextInput {width: 60% !important; margin: auto;}
+    .stButton button {width: 60%; background-color: black; color: white; font-size: 18px; }
+    .stButton button:hover { Background-color: red; color: white;}
 </style>                                  
 """, unsafe_allow_html=True)
 
