@@ -6,7 +6,7 @@ st.set_page_config(page_title="Password Strength Checker By Qurat ul ane anee sh
 st.markdown("""
 <style>
     .main {text-align: center;}
-    .stTextInput {width: 60% !important; margin: auto;}
+    .stTextInput {width: 60% !important; margin-left: -10px;}
     .stButton button {width: 60%; background-color: black; color: white; font-size: 18px; }
     .stButton button:hover { Background-color: red; color: white;}
 </style>                                  
